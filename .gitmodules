@@ -1,0 +1,3 @@
+[submodule "vendor/mailchimp"]
+	path = vendor/mailchimp
+	url = git@github.com:alextucker/mailchimp.git
